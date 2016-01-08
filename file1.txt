@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new feature1
-=======
 Fix1
->>>>>>> b3ab477... Added fix1
